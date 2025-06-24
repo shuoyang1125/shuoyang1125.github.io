@@ -22,7 +22,7 @@ repository               : "shuoyang1125/shuoyang1125.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "picture.png"
   name             : "Shuo Yang"
   pronouns         : # example: "she/her"  
   bio              : "Try my best to earn myself."
