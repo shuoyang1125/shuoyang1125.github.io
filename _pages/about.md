@@ -13,4 +13,8 @@ Hi! I'm Shuo Yang from the school of Electronics at Peking University. I receive
 permalink: /
 title: "Publication"
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
+
